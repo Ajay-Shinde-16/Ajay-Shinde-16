@@ -21,7 +21,7 @@ I am a Software Developer from Pune who loves building real-world applications a
 - 🗄️ Working with databases like **SQL, MongoDB** for scalable data solutions
 - 🎨 Crafting responsive UIs with **HTML, CSS and JavaScript**
 - 🤝 Open to collaborating on **open-source and real-world projects**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/ajayshinde16)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/_ajay_shinde_16)**
 - 📍 Based in **Pune, India**
 - And Many more...
 
@@ -31,7 +31,7 @@ I am a Software Developer from Pune who loves building real-world applications a
   <a href="https://linkedin.com/in/ajayshinde16" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/ajayshinde16" target="_blank">
+  <a href="https://instagram.com/_ajay_shinde_16" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
