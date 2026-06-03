@@ -16,10 +16,10 @@
 I am a Software Developer from Pune who loves building real-world applications across the full stack. I have a strong foundation in both frontend and backend technologies and enjoy solving complex problems through code.
 
 - 🔭 Building full stack web applications using **React, Node.js, Java and .NET**
-- 🌱 🎓 Currently deepening skills in **Advanced Java, System Design and Cloud Deployment**
+- 🎓 Currently deepening skills in **Advanced Java, Spring Boot, System Design and Cloud Deployment**
 - 💡 Strong problem-solving skills with **Data Structures & Algorithms in C++ and Java**
-- 🗄️ Working with databases like **SQL, MongoDB** for scalable data solutions
-- 🎨 Crafting responsive UIs with **HTML, CSS and JavaScript**
+- 🗄️ Working with databases like **SQL and MongoDB** for scalable data solutions
+- 🎨 Crafting responsive UIs with **HTML, CSS, Bootstrap and JavaScript**
 - 🤝 Open to collaborating on **open-source and real-world projects**
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/_ajay_shinde_16)**
 - 📍 Based in **Pune, India**
@@ -103,11 +103,11 @@ I am a Software Developer from Pune who loves building real-world applications a
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Shinde-16&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Ajay-Shinde-16&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Shinde-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ajay-Shinde-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
