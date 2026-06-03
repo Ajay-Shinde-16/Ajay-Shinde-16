@@ -98,23 +98,3 @@ I am a passionate Software Developer from Pune who loves turning ideas into real
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### GitHub Stats:
-
-<p align="center">
-  <img src="https://ajay-stats.vercel.app/api?username=Ajay-Shinde-16&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://ajay-stats.vercel.app/api/top-langs/?username=Ajay-Shinde-16&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ajay-Shinde-16&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Ajay-Shinde-16/Ajay-Shinde-16/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
