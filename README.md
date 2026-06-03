@@ -104,13 +104,13 @@ I am a passionate Software Developer from Pune who loves turning ideas into real
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://ajay-stats.vercel.app/api?username=Ajay-Shinde-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://ajay-stats.vercel.app/api?username=Ajay-Shinde-16&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://ajay-stats.vercel.app/api/top-langs/?username=Ajay-Shinde-16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://ajay-stats.vercel.app/api/top-langs/?username=Ajay-Shinde-16&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ajay-Shinde-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ajay-Shinde-16&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
