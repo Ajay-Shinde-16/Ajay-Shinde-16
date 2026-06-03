@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ajay Shinde</h1>
-<h3 align="center">Software Developer from Pune, India</h3>
+<h1>Hi 👋, I'm Ajay Shinde</h1>
+<h3>Software Developer from Pune, India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+%7C+React+%7C+Node.js+%7C+.NET;Full+Stack+%7C+DSA+%7C+Cloud;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ajay-Shinde-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ajay-Shinde-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
