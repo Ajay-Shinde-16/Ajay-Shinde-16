@@ -9,17 +9,17 @@
 
 <img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-I am a Software Developer from Pune who loves building real-world applications across the full stack. I have a strong foundation in both frontend and backend technologies and enjoy solving complex problems through code.
+I am a passionate Software Developer from Pune who loves turning ideas into real-world applications. I enjoy working across the full stack — from crafting clean UIs to building robust backend systems and deploying them to the cloud.
 
 - Building full stack web applications using **React, Node.js, Java and .NET**
 - 🎓 Currently deepening skills in **Advanced Java, Spring Boot, System Design and Cloud Deployment**
 - Strong problem-solving skills with **Data Structures & Algorithms in C++ and Java**
 - Working with databases like **SQL and MongoDB** for scalable data solutions
 - Crafting responsive UIs with **HTML, CSS, Bootstrap and JavaScript**
-- Open to collaborating on **open-source and real-world projects**
+- Actively contributing to **open-source projects and organisations**
 - How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/_ajay_shinde_16)**
 - Based in **Pune, India**
-- And Many more...
+- Fun fact: **I debug with coffee and fix bugs with more coffee** ☕
 
 ### Reach out to me at one of the following places!
 
@@ -94,4 +94,24 @@ I am a Software Developer from Pune who loves building real-world applications a
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### GitHub Stats:
+
+<p align="center">
+  <img src="https://ajay-stats.vercel.app/api?username=Ajay-Shinde-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://ajay-stats.vercel.app/api/top-langs/?username=Ajay-Shinde-16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ajay-Shinde-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Ajay-Shinde-16/Ajay-Shinde-16/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
