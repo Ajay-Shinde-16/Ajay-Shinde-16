@@ -16,7 +16,7 @@
 I am a Software Developer from Pune who loves building real-world applications across the full stack. I have a strong foundation in both frontend and backend technologies and enjoy solving complex problems through code.
 
 - 🔭 Building full stack web applications using **React, Node.js, Java and .NET**
-- 🌱 Currently deepening skills in **Advanced Java, System Design and Cloud Deployment**
+- 🌱 🎓 Currently deepening skills in **Advanced Java, System Design and Cloud Deployment**
 - 💡 Strong problem-solving skills with **Data Structures & Algorithms in C++ and Java**
 - 🗄️ Working with databases like **SQL, MongoDB** for scalable data solutions
 - 🎨 Crafting responsive UIs with **HTML, CSS and JavaScript**
@@ -82,6 +82,21 @@ I am a Software Developer from Pune who loves building real-world applications a
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
