@@ -17,7 +17,7 @@ I am a passionate Software Developer from Pune who loves turning ideas into real
 - Working with databases like **SQL and MongoDB** for scalable data solutions
 - Crafting responsive UIs with **HTML, CSS, Bootstrap and JavaScript**
 - Actively contributing to **open-source projects and organisations**
-- How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/_ajay_shinde_16)**
+- How to reach me: **[LinkedIn](https://linkedin.com/in/ajayshinde16)** · **[Instagram](https://instagram.com/_ajay_shinde_16)** · **[Ajay.shinde1606@gmail.com](mailto:Ajay.shinde1606@gmail.com)**
 - Based in **Pune, India**
 - Fun fact: **I debug with coffee and fix bugs with more coffee** ☕
 
@@ -29,6 +29,9 @@ I am a passionate Software Developer from Pune who loves turning ideas into real
   </a>
   <a href="https://instagram.com/_ajay_shinde_16" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="mailto:Ajay.shinde1606@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
   </a>
 </p>
 
