@@ -13,7 +13,7 @@
 
 ### About:
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I am a Software Developer from Pune who loves building real-world applications across the full stack. I have a strong foundation in both frontend and backend technologies and enjoy solving complex problems through code.
 
